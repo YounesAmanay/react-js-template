@@ -19,8 +19,7 @@ public/*
 **/.prettier.*
 **/prettier.config.*
 
-# next
-**/next.config.*
+
 
 # vite
 **/vite.config.*
@@ -29,8 +28,8 @@ public/*
 **/postcss.config.*
 **/tailwind.config.*
 
-# craco
-**/craco.config.*
-
 # misc
 **/jsconfig.json
+
+# chadcn/ui
+**/components/ui/**
